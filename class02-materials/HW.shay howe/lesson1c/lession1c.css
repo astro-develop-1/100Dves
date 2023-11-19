@@ -1,0 +1,23 @@
+p{
+    background-color: black;
+    color:white;
+}
+.paraA{
+    background-color:green;
+
+}
+.paraB{
+    background-color:orange;
+}
+#para1{
+    color:blue;
+}
+#para2{
+    color:purple;
+}
+#para3{
+    color:firebrick;
+}
+#para4{
+    color:aquamarine;
+}
