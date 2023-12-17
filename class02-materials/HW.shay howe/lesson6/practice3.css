@@ -1,0 +1,66 @@
+h1{
+    width: 10%;
+    line-height: 80%;
+    float: left;
+}
+a{
+    color: rgb(99, 96, 96);
+}
+.anc-1:hover{
+    color: rgb(218, 201, 201);
+}
+.color{
+    color: rgb(99, 96, 96);
+    float: left;
+    margin-left: 12%;
+}
+div{
+    clear: both;
+    margin-left: 21%;
+}
+a:hover{
+    color: rgb(218, 201, 201);
+}
+.section-2{
+    color: rgb(99, 96, 96);
+    margin-left: 10%;
+}
+.h2-1{
+    font-weight: 300px;
+}
+.a-1{
+    border: 1px solid rgb(200, 197, 197);
+    margin-left: 15%;
+}
+.a-1:hover{
+    color: rgb(218, 201, 201);
+}
+.section-3{
+    margin-top: 10%;
+    color: rgb(99, 96, 96);
+    /* width: 10%; */
+}
+.c-1{
+    width: 20%;
+    float: left;
+}
+.c-2{
+    width: 20%;
+    float: left;
+    margin-left: 15%;
+}
+.c-3{
+    width: 20%;
+    float: left;
+    margin-left: 15%;
+}
+.end-p{
+    color: rgb(99, 96, 96);
+    clear: both;
+    font-size: 10px;
+}
+.end{
+    font-size: 10px;
+    float: left;
+}
+
